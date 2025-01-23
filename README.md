@@ -8,7 +8,7 @@ Python = Pytest = Allure Report = Jenkins = Telegram = Java = PosgreSQL
 ![](/design/icons/Telegram.png)&emsp;![](/design/icons/Java.png)&emsp;![ ](/design/icons/Postgresql.png)
 <hr>
 
-## Основной шаблон выполнения шагов тест-кейса:
+## Сценарии:
 * Подготовка Базы Данных (удаление сведений по ИЛС, записей о ЕЦП, задач в очереди на выполнение)
 * Чтение файла JSON с анкетой и получение из него параметров теста
 * Выполнение SQL-запроса INSERT для заполнения соответствующей таблицы ЕЦП
