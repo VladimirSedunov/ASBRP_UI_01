@@ -1,7 +1,7 @@
 <h1 align="center">Тестирование проекта "Корпоративная система Ресурсного и бюджетного планирования" - ERPLIGHT(ASBRP)</h1>
 <hr>
 
-## Проект реализован с использованием
+## Проект автотестирования реализован с использованием
 Python = Pytest = Allure Report = Jenkins = Telegram = Java = PosgreSQL
 
 ![](/design/icons/Python.png)&emsp;![](/design/icons/Pytest.png)&emsp;![](/design/icons/Allure_Report.png)&emsp;![](/design/icons/Jenkins.png)&emsp;
