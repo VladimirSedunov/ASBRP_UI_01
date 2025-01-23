@@ -67,7 +67,7 @@ test_ASBRP_849
 
 test_ASBRP_964
 
-
+![](/design/images/code3.png)
 
 ## Запуск автотестов выполняется на сервере Jenkins
 
