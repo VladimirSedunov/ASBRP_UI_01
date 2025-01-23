@@ -98,8 +98,7 @@ pytest ${SELECT_TESTS} --browser=${browser} --browser_version=${browser_version}
 ## Видеопрезентация автотеста
 Шестиминутная видеопрезентация может быть предоставлена по требованию
 Файл: DEMO_Vanil_Clip.mp4
-![](https://github.com/VladimirSedunov/erplight_asbrp/blob/master/design/video/v01.gif)
-
+![](https://github.com/VladimirSedunov/erplight_asbrp/blob/main/design/video/v01.gif)
 <hr>
 
 ## _Примечание:_
