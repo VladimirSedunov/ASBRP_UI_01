@@ -98,6 +98,7 @@ pytest ${SELECT_TESTS} --browser=${browser} --browser_version=${browser_version}
 ## Видеопрезентация автотеста
 
 Фрагмент презентации в формате GIF
+
 ![](https://github.com/VladimirSedunov/erplight_asbrp/blob/main/design/video/v01.gif)
 
 Шестиминутная видеопрезентация размещена в папке design/video в файлах : 01.mp4, 02.mp4, 03.mp4, 04.mp4
