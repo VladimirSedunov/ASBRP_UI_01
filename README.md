@@ -72,12 +72,14 @@ test_ASBRP_964
 ## Запуск автотестов выполняется на сервере Jenkins
 
 Командная строка:
-pytest ${SELECT_TESTS} --bd_name=${bd_name}
+pytest ${SELECT_TESTS} --browser=${browser} --browser_version=${browser_version} --window-size=${window_size}
 
 ### Параметры сборки
 
 * SELECT_TESTS - Параметр определяет выбранную группу тестов.
-* bd_name - База данных (тестовый стенд)
+* browser - Браузер chrome или firefox.
+* browser_version - Версия браузера на Selenoid.
+* window_size - Размер окна браузера.
 
 ![](/design/images/jenkins1.png)
 
