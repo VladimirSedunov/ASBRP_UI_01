@@ -57,6 +57,18 @@ Python = Pytest = Allure Report = Jenkins = Telegram = Java = PosgreSQL
 
 <hr>
 
+## Фрагменты кода
+
+test_ASBRP_849
+
+![](/design/images/code1.png)
+
+![](/design/images/code2.png)
+
+test_ASBRP_964
+
+
+
 ## Запуск автотестов выполняется на сервере Jenkins
 
 Командная строка:
